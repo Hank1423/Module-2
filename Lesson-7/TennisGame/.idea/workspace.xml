@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a73e7010-b462-4fc4-9107-32ce93e79d73" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Animal/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animal/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animal/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animal/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animal/Main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animal/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animal/animal/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animal/animal/Chicken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animal/animal/Tiger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animal/edible/Edible.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animal/fruit/Apple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animal/fruit/Fruit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animal/fruit/Orange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animal/out/production/Main/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animal/out/production/Main/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animal/out/production/Main/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animal/out/production/Main/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animal/out/production/Main/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animal/out/production/Main/Main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animal/out/production/Main/animal/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animal/out/production/Main/animal/Chicken.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animal/out/production/Main/animal/Tiger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animal/out/production/Main/edible/Edible.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animal/out/production/Main/fruit/Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animal/out/production/Main/fruit/Fruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animal/out/production/Main/fruit/Orange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculator/Calculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculator/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculator/CalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculator/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculator/out/production/Calculator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculator/out/production/Calculator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculator/out/production/Calculator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculator/out/production/Calculator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculator/out/production/Calculator/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculator/out/production/Calculator/Calculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculator/out/production/Calculator/CalculatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculator/out/production/Calculator/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComparableCircle/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComparableCircle/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComparableCircle/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComparableCircle/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComparableCircle/CircleComparator/CircleComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComparableCircle/ComparableCircle.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComparableCircle/ComparableCircle/ComparableCircle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComparableCircle/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComparableCircle/out/production/ComparableCircle/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComparableCircle/out/production/ComparableCircle/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComparableCircle/out/production/ComparableCircle/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComparableCircle/out/production/ComparableCircle/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComparableCircle/out/production/ComparableCircle/CircleComparator/CircleComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComparableCircle/out/production/ComparableCircle/ComparableCircle.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComparableCircle/out/production/ComparableCircle/ComparableCircle/ComparableCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComparableCircle/out/production/ComparableCircle/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComparableCircle/out/production/ComparableCircle/src/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComparableCircle/out/production/ComparableCircle/src/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComparableCircle/out/production/ComparableCircle/src/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComparableCircle/out/production/ComparableCircle/src/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComparableCircle/src/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComparableCircle/src/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComparableCircle/src/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComparableCircle/src/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzz/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzz/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzz/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzz/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzz/FizzBuzz.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzz/FizzBuzz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzz/FizzBuzzTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzz/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzz/out/production/FizzBuzz/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzz/out/production/FizzBuzz/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzz/out/production/FizzBuzz/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzz/out/production/FizzBuzz/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzz/out/production/FizzBuzz/FizzBuzz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzz/out/production/FizzBuzz/FizzBuzz.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzz/out/production/FizzBuzz/FizzBuzzTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzz/out/production/FizzBuzz/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shape/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shape/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shape/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shape/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shape/Cylinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shape/CylinderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shape/Shape.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shape/out/production/Shape/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shape/out/production/Shape/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shape/out/production/Shape/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shape/out/production/Shape/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shape/out/production/Shape/Cylinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shape/out/production/Shape/CylinderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shape/out/production/Shape/Shape.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShapeResize/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShapeResize/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShapeResize/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShapeResize/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShapeResize/CircleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShapeResize/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShapeResize/RentangleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShapeResize/ShapeResize.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShapeResize/ShapeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShapeResize/color/Colorable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShapeResize/out/production/ShapeResize/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShapeResize/out/production/ShapeResize/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShapeResize/out/production/ShapeResize/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShapeResize/out/production/ShapeResize/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShapeResize/out/production/ShapeResize/CircleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShapeResize/out/production/ShapeResize/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShapeResize/out/production/ShapeResize/RentangleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShapeResize/out/production/ShapeResize/ShapeResize.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShapeResize/out/production/ShapeResize/ShapeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShapeResize/out/production/ShapeResize/color/Colorable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShapeResize/out/production/ShapeResize/resize/Resizeable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShapeResize/out/production/ShapeResize/src/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShapeResize/out/production/ShapeResize/src/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShapeResize/out/production/ShapeResize/src/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShapeResize/out/production/ShapeResize/src/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShapeResize/resize/Resizeable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShapeResize/src/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShapeResize/src/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShapeResize/src/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShapeResize/src/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TennisGame.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TennisGameTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TennisGame/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TennisGame/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TennisGame/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TennisGame/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TennisGame/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TennisGame/TennisGame.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TennisGame/TennisGameTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TennisGame/src/TennisGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TennisGame.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3ENSKst3W44TDRu6iTY9xtYxCHH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.TennisGameTest.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="TennisGameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TennisGame" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TennisGameTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TennisGameTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a73e7010-b462-4fc4-9107-32ce93e79d73" name="Changes" comment="" />
+      <created>1780017477381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780017477381</updated>
+      <workItem from="1780017478423" duration="3241000" />
+      <workItem from="1780037264627" duration="1435000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
